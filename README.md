@@ -4,7 +4,7 @@
 
 I am kazi Abubakar Nahin.I study in Computer Science and Technology Department in Khulna Polytechnic Institute
 
-Skills: Dart/Python/Html/css
+Skills: Html/css
 
 - 🔭 I’m currently working on Fiverr 
 - 🌱 I’m currently learning Dart 
